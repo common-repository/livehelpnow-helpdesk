@@ -1,0 +1,29 @@
+{
+  "name": "insanelab/lhnchat",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "LHN chat plugin",
+  "authors": [
+    {
+      "name": "In'saneLab",
+      "email": "contact@insanelab.com",
+      "homepage": "https://insanelab.com"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+    "apigen/apigen": "dev-master",
+    "roave/better-reflection": "dev-master#c87d856"
+  },
+  "autoload": {
+    "psr-4": {
+      "LHNChat\\": "src/class/"
+    }
+  }
+}

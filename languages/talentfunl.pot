@@ -1,0 +1,231 @@
+# Copyright (C) 2018 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/talentfunl\n"
+"POT-Creation-Date: 2018-01-17 17:25:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: src/class/API/Authentication.php:163
+msgid "LiveHelpNow! Chat is not working yet!"
+msgstr ""
+
+#: src/class/API/Authentication.php:165
+msgid ""
+"LiveHelpNow! Plugin is installed and active, but I's not working yet! You "
+"need to authenticate first."
+msgstr ""
+
+#: src/class/API/Authentication.php:168
+msgid "Authenticate now"
+msgstr ""
+
+#: src/class/Chat.php:30
+msgid "Add New Chat"
+msgstr ""
+
+#: src/class/Chat.php:31
+msgid "New Chat"
+msgstr ""
+
+#: src/class/Chat.php:32
+msgid "Edit Chat"
+msgstr ""
+
+#: src/class/Chat.php:33
+msgid "View Chat"
+msgstr ""
+
+#: src/class/Chat.php:34
+msgid "All Chats"
+msgstr ""
+
+#: src/class/Chat.php:35
+msgid "Search Chats"
+msgstr ""
+
+#: src/class/Chat.php:36
+msgid "No chats found."
+msgstr ""
+
+#: src/class/Chat.php:37
+msgid "No chats found in Trash."
+msgstr ""
+
+#: src/class/Chat.php:98
+msgid "LiveHelpNow Authentication Required"
+msgstr ""
+
+#: src/class/Chat.php:139
+msgid "LiveHelpNow Chat Widget"
+msgstr ""
+
+#: src/class/Chat.php:183
+msgid "Optional: LiveHelpNow Chat Options"
+msgstr ""
+
+#: src/class/Chat.php:227
+msgid "Optional: LiveHelpNow Chat Dictionary"
+msgstr ""
+
+#: src/class/Plugin.php:93 src/class/Plugin.php:100
+msgid "Sample Chat"
+msgstr ""
+
+#: src/class/Settings.php:79
+msgid "Display LiveHelpNow Chat"
+msgstr ""
+
+#: src/class/Settings.php:120
+msgid "Hide LiveHelpNow Chat"
+msgstr ""
+
+#: src/class/Settings.php:157
+msgid "Select LiveHelpNow Chat Widget"
+msgstr ""
+
+#: src/class/SettingsField.php:109
+msgid "Yes"
+msgstr ""
+
+#: src/class/SettingsField.php:113
+msgid "No"
+msgstr ""
+
+#: src/class/SettingsPage.php:26
+msgid "LiveHelpNow! Chat settings."
+msgstr ""
+
+#: src/class/SettingsPage.php:27 src/class/SettingsPage.php:51
+msgid "LiveHelpNow!"
+msgstr ""
+
+#: src/class/SettingsPage.php:52
+msgid "Settings"
+msgstr ""
+
+#: src/class/SettingsPage.php:92
+msgid "LiveHelpNow! Settings"
+msgstr ""
+
+#: src/class/SettingsPage.php:126
+msgid "General Settings"
+msgstr ""
+
+#: src/class/SettingsPage.php:134
+msgid "Display chat on every page"
+msgstr ""
+
+#: src/class/SettingsPage.php:146
+msgid "Default chat to display"
+msgstr ""
+
+#: src/class/SettingsPage.php:162
+msgid "Logout from LiveHelpNow!"
+msgstr ""
+
+#: src/class/SettingsPage.php:176
+msgid "Remove all plugin data after deactivation"
+msgstr ""
+
+#: src/class/SettingsPage.php:199
+msgid "Display chat on every page or post"
+msgstr ""
+
+#: src/class/SettingsPage.php:202 src/class/SettingsPage.php:233
+msgid "Can be overriden per page"
+msgstr ""
+
+#: src/class/SettingsPage.php:249
+msgid "Logout"
+msgstr ""
+
+#: src/class/SettingsPage.php:252
+msgid ""
+"Destroys user session. Can be useful if you want to login to another "
+"account."
+msgstr ""
+
+#: src/class/SettingsPage.php:272
+msgid "Remove all data after deactivation"
+msgstr ""
+
+#: src/class/SettingsPage.php:275
+msgid ""
+"Use with caution. This will remove all chats and settings after you "
+"deactivate plugin."
+msgstr ""
+
+#: src/templates/admin/authentication-form.php:23
+msgid "Username"
+msgstr ""
+
+#: src/templates/admin/authentication-form.php:28
+msgid "Password"
+msgstr ""
+
+#: src/templates/admin/authentication-form.php:36
+#: src/templates/admin/authentication-info.php:17
+msgid "Authenticate"
+msgstr ""
+
+#: src/templates/admin/authentication-info.php:12
+msgid "To edit form settings you need to login first."
+msgstr ""
+
+#: src/templates/admin/authentication-info.php:14
+msgid "Please authenticate your LiveHelpNow account."
+msgstr ""
+
+#: src/templates/admin/chat-display-settings.php:20
+msgid "Display chat on this %s"
+msgstr ""
+
+#: src/templates/admin/chat-hide-settings.php:20
+msgid "Hide chat on this %s"
+msgstr ""
+
+#: src/class/Chat.php:26
+msgctxt "Post type general name"
+msgid "Chats"
+msgstr ""
+
+#: src/class/Chat.php:27
+msgctxt "Post type singular name"
+msgid "Chat"
+msgstr ""
+
+#: src/class/Chat.php:28
+msgctxt "Admin Menu text"
+msgid "Chats"
+msgstr ""
+
+#: src/class/Chat.php:29
+msgctxt "Add New on Toolbar"
+msgid "Chat"
+msgstr ""
+
+#: src/class/Chat.php:38
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter chats list"
+msgstr ""
